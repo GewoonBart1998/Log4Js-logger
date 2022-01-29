@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@nestjs/config": "^1.1.6",
+    "@nestx-log4js/core": "^1.5.1",
+    "nest-log4js": "^0.0.5"
+  }
+}
